@@ -67,7 +67,6 @@ shl/
 └── .env                    # Environment variables (API keys)
 ```
 
-
 ---
 
 ## ⚙️ Installation & Setup
